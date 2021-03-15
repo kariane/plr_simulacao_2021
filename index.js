@@ -24,7 +24,7 @@ function renderData() {
 		PLR_360_time(target, time) +
 		PLR_Meta_area(target, valorArea) +
 		PLR_base_BP(target)
-		console.log(vfinal);
+
 	const template = `
 		<ul style="color: #5c5c5c">Salário
 			<li>${salario}</li>
